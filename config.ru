@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>This is Blue version of Ruby demo app for OpenShift.</h1>
+            <h1>This is Green version of Ruby demo app for OpenShift.</h1>
           </hgroup>
 
 
